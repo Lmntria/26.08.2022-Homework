@@ -87,13 +87,13 @@ main{
     background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Children_of_the_Gods_DVD_Cover.jpg/250px-Children_of_the_Gods_DVD_Cover.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 44%;
 
 }
 .item-inside-up{
   height: 60%;
   width: 100%;
-  background-color: black;
+  background-color: rgb(157, 157, 157);
 }
 .item-text{
   width: 75%;
@@ -121,7 +121,7 @@ main{
 }
 .hr{
   width: 80%;
-  border: 1px solid gray;
+  border: 1px solid rgb(126, 0, 0);
   border-radius: 1px;
 }
 .aside-p{
