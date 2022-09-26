@@ -1,0 +1,148 @@
+aside{
+  width: 15%;
+  height: 100vh;
+  background-color: rgb(127, 127, 127);
+  top: 50px;
+}
+nav span,nav svg{
+  display: inline-block;
+}
+nav{
+  height: 50px;
+  top: 0;
+  background-color: aliceblue;
+}
+main{
+  margin:50px 0 0 15%;
+  width: 85%;
+  background-color: rgb(180, 178, 178);
+}
+.all{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.logo{
+  width: 5%;
+}
+.item{
+  margin-top: 30px;
+  width: 24%;
+  height: 300px;
+  background-color: rgb(255, 207, 207);
+
+}
+.position-fixed{
+  position: fixed;
+}
+.w-100{
+  width: 100%;
+}
+.display-flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon-size{
+  font-size: 15px;
+}
+.search{
+  border: 1px solid gray;
+  width: 500px;
+  padding: 2px;
+  font-size: 20px;
+}
+.search-icon{
+  width: 22px;
+  padding: 5px 5px 4px 5px;
+  margin-left:-4px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.button{
+  width: 100px;
+  height: 35px;
+  background-color: white;
+  color: blue;
+  border: 2px solid blue;
+  margin-right: 10px;
+  top: 5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+}
+.icon-setting{
+  margin-right: 0px;
+}
+.block{
+  display: inline-block;
+}
+.item-inside{
+  height: 40%;
+  width: 100%;
+  background-color: black;
+}
+.item-inside-bck{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Children_of_the_Gods_DVD_Cover.jpg/250px-Children_of_the_Gods_DVD_Cover.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.item-inside-up{
+  height: 60%;
+  width: 100%;
+  background-color: black;
+}
+.item-text{
+  width: 75%;
+  height: 100%;
+  color: white;
+}
+.item-text-left{
+  width: 20%;
+  height: 100%;
+}
+.item-circle{
+  color: white;
+  font-size: 40px;
+  margin-left: 20%;
+  margin-top: 15px;
+}
+.item-text h1{
+  margin-top: 15px;
+}
+.item-text p{
+  margin-top: 5px;
+}
+.margin-li{
+  margin-top: 10px;
+}
+.hr{
+  width: 80%;
+  border: 1px solid gray;
+  border-radius: 1px;
+}
+.aside-p{
+  margin-left: 5px;
+  font-size: 15px;
+}
+aside button{
+  width: 100px;
+  height: 35px;
+  margin-left: 25%;
+  margin-top: 10px;
+}
+.user-icon{
+  font-size: 20px;
+  margin-right: 3px;
+  color: blue;
+}
+.aside-marg{
+  margin-left: 15px;
+  width: 70%;
+}
+.icon-size-nav{
+  font-size: 30px;
+}
