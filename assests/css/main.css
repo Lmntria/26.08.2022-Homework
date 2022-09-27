@@ -146,3 +146,14 @@ aside button{
 .icon-size-nav{
   font-size: 30px;
 }
+aside li{
+  transition: 0.3s;
+  cursor: pointer;
+}
+aside li:hover{
+  background-color: rgb(160, 158, 158);
+}
+.scroll{
+  overflow-y: scroll;
+  height: ;
+}
